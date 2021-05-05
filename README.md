@@ -1,3 +1,3 @@
 # One year C++ lessons
-### 14-16 years of age
+### 14-17 years of age
 ### Academy Nikola Test
