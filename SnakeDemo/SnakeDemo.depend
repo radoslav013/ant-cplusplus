@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1624696564 source:c:\users\administrator\documents\ant-cplusplus\snakedemo\main.cpp
+	<iostream>
+	<ctime>
+	<windows.h>
+

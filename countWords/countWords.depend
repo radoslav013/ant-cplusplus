@@ -1,0 +1,4 @@
+# depslib dependency file v1.0
+1621450616 source:c:\users\administrator\documents\ant\countwords\main.cpp
+	<iostream>
+
