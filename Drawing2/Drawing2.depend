@@ -1,8 +1,0 @@
-# depslib dependency file v1.0
-1624695358 source:c:\users\administrator\documents\ant-cplusplus\drawing2\main.cpp
-	<iostream>
-	<cstdlib>
-	<windows.h>
-	<winuser.h>
-	<time.h>
-

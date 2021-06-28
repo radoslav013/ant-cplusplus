@@ -1,8 +1,0 @@
-# depslib dependency file v1.0
-1624702205 source:c:\users\administrator\documents\ant-cplusplus\snakewindowslibrary\main.cpp
-	<iostream>
-	<cstdlib>
-	<windows.h>
-	<winuser.h>
-	<ctime>
-
